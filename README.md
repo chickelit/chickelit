@@ -1,7 +1,7 @@
 ## Opa, de boa? 👋
 
 - 🌱 Atualmente, estou estudando desenvolvimento web
-- 📫 Contate-me pelo Instagram: @tete627
+- 📫 Contate-me pelo Instagram: @zezin_627
 
 <table>
   <tr>
