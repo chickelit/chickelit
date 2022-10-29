@@ -1,8 +1,9 @@
 ### Opa, me chamo José
 
-- 🖥️ Atualmente, estou desenvolvendo projetos pessoais
+- 🖥️ Atualmente, estou estudando outras linguagens e frameworks
 - 🔨 Metas pra 2022: Desenvolver vários projetos para colocar no meu portfólio
 - 📫 Contate-me pelo Email: anselmojose297@gmail.com
+- 📰 Veja meu [Portfólio](https://zezin-portfolio.vercel.app/)
 
 ## Habilidades e tecnologias
 
@@ -20,8 +21,8 @@
   <img align="center" alt="Sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
   <img align="center" alt="Nuxt" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" />
   <img align="center" alt="C#" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" />
-  <img align="center" alt="C#" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" />
-  <img align="center" alt="C#" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" />
+  <img align="center" alt="DotNet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" />
+  <img align="center" alt="DotNetCore" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" />
 </div>
 
 <br />
