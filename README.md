@@ -32,7 +32,7 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jose13162&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
     </td>
     <td align="center" style="padding=0;width=50%;">
-       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jose13162&layout=compact&theme=dracula" />
+       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jose13162&langs_count=8&layout=compact&theme=dracula" />
     </td>
   </tr>
 </table>
