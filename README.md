@@ -3,7 +3,7 @@
 - 🖥️ Atualmente, estou estudando outras linguagens e frameworks
 - 🔨 Metas pra 2022: Desenvolver vários projetos para colocar no meu portfólio
 - 📫 Contate-me pelo Email: anselmojose297@gmail.com
-- 📰 Veja meu [Portfólio](https://zezin-portfolio.vercel.app/)
+- 📰 Veja meu <a href="https://zezin-portfolio.vercel.app/" target="__blank">Portfólio</a>
 
 ## Habilidades e tecnologias
 
