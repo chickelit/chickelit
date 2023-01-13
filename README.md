@@ -41,7 +41,7 @@
 <br />
 
 <div>
-  <a href="https://www.instagram.com/zezin_627" target="__blank">
+  <a href="https://www.instagram.com/tete5275" target="__blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
