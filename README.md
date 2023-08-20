@@ -26,8 +26,8 @@
 
 <div style="display: grid; justify-items: center;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chickelit&theme=dracula&show_icons=true&hide_border=false&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chickelit&theme=dracula&hide_border=false" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chickelit&theme=dracula&show_icons=true&hide_border=false&layout=compact" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chickelit&theme=dracula&hide_border=false" />
 </div>
 
 ## Redes sociais
