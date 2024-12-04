@@ -1,6 +1,6 @@
 # Opa, me chamo José
 
-- 🖥️ Atualmente, estou fazendo alguns freelances 🤠
+- 🖥️ Atualmente, estou buscando meu curso de ADS
 - 📫 Contate-me pelo Email: anselmojose297@gmail.com
 - 📰 Veja meu <a href="https://zezin-portfolio.vercel.app/" target="__blank">Portfólio</a>
 
@@ -16,6 +16,9 @@
   <img align="center" alt="Docker" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
   <img align="center" alt="MySQL" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Sequelize" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" />
+  <img align="center" alt="Sequelize" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" />
+  <img align="center" alt="Sequelize" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
+  <img align="center" alt="Sequelize" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" />
 </div>
 
 <br />
@@ -35,11 +38,11 @@
 <br />
 
 <div>
-  <a href="https://www.instagram.com/tete5275" target="__blank">
+  <a href="https://www.instagram.com/chickelit" target="__blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="https://api.whatsapp.com/send?phone=5587999399425" target="__blank">
+  <a href="https://api.whatsapp.com/send?phone=5587999730185" target="__blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </div>
