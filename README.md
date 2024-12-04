@@ -2,7 +2,7 @@
 
 - 🖥️ Atualmente, estou buscando meu curso de ADS
 - 📫 Contate-me pelo Email: anselmojose297@gmail.com
-- 📰 Veja meu <a href="https://zezin-portfolio.vercel.app/" target="__blank">Portfólio</a>
+- 📰 Veja meu <a href="https://zezin-portfolio.vercel.app/" target="blank">Portfólio</a>
 
 ## Tecnologias que mais uso
 
