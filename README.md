@@ -15,7 +15,6 @@
   <img align="center" alt="NodeJS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Docker" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
   <img align="center" alt="MySQL" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Sequelize" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" />
   <img align="center" alt="Sequelize" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" />
   <img align="center" alt="Sequelize" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
   <img align="center" alt="Sequelize" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" />
